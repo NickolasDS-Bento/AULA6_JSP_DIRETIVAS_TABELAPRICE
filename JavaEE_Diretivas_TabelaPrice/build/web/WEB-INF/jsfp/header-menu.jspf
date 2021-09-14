@@ -1,0 +1,7 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div>
+    <div style="text-align: center ; border-color: white; border-width: 20px">Menu</div>
+    <div style="text-align: center"><a href="<%= request.getContextPath()%>/pages/tabela-prince.jsp">Pagina Tabela Prince</a></div>  
+</div>
+
